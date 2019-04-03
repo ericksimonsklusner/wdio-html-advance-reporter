@@ -21,4 +21,4 @@ Or, you can simply do it with:
 npm install wdio-html-advance-reporter --save-dev
 ```
 
-![Report Screenshot](wdio-report.jpg)
+![Report Screenshot](wdio-html-advance-report.png)
