@@ -1,0 +1,44 @@
+{
+  "name": "wdio-html-advance-reporter",
+  "version": "1.0.2",
+  "description": "Customized wdio html report with graphical representation, toggle views, scenario/steps breakdown details, real time testdata log and so many advanced features",
+  "main": "lib/reporter.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericksimonsklusner/wdio-html-reporter-advanced.git"
+  },
+  "keywords": [
+    "html",
+    "reporter",
+    "webdriverio",
+    "cucumber",
+    "wdio",
+    "wdio-plugin",
+    "wdio-reporter"
+  ],
+  "author": "Eric",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericksimonsklusner/wdio-html-reporter-advanced/issues"
+  },
+  "homepage": "https://github.com/ericksimonsklusner/wdio-html-reporter-advanced#readme",
+
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5",
+    "fs-extra": "^5.0.0",
+    "handlebars": "^4.0.11",
+    "jpeg-js": "^0.3.3",
+    "lodash": "^4.17.5",
+    "mocha": "^5.0.1",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1",
+    "nightmare": "^2.10.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "pngjs": "^3.3.3"
+  }
+}
