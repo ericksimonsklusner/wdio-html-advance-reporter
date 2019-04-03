@@ -21,4 +21,17 @@ Or, you can simply do it with:
 npm install wdio-html-advance-reporter --save-dev
 ```
 
+## Setup
+
+For webdriverio add below in wdio conf file
+
+  reporters: ['html-advance'],
+  
+  reporterOptions: {
+    htmlFormat: {
+      outputDir: `./e2e/reports/html-reports/${report_id}`,
+      reportTitle:'Your-Project-Title'
+    }
+  },
+
 ![Report Screenshot](wdio-html-advance-report.png)
