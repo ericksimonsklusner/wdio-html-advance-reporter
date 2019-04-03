@@ -34,4 +34,6 @@ For webdriverio add below in wdio conf file
     }
   },
 
+## Snapshot
+
 ![Report Screenshot](wdio-html-advance-report.png)
