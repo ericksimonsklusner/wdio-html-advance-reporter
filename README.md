@@ -25,6 +25,8 @@ npm install wdio-html-advance-reporter --save-dev
 
 For webdriverio add below in wdio conf file
 
+
+```
   reporters: ['html-advance'],
   
   reporterOptions: {
@@ -33,6 +35,8 @@ For webdriverio add below in wdio conf file
       reportTitle:'Your-Project-Title'
     }
   },
+
+```
 
 ## Snapshot
 
