@@ -1,6 +1,6 @@
 {
   "name": "wdio-html-advance-reporter",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "Customized wdio html report with graphical representation, toggle views, scenario/steps breakdown details, real time testdata log and so many advanced features",
   "main": "lib/reporter.js",
   "scripts": {
