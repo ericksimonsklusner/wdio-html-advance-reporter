@@ -10,7 +10,7 @@ The easiest way is to keep the `wdio-html-advance-reporter` as a devDependency i
 ```javascript
 {
   "devDependencies": {
-    "wdio-html-advance-reporter": "~1.0.7"
+    "wdio-html-advance-reporter": "~1.0.8"
   }
 }
 ```

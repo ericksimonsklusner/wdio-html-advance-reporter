@@ -1,6 +1,6 @@
 {
   "name": "wdio-html-advance-reporter",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Customized wdio html report with graphical representation, toggle views, scenario/steps breakdown details, real time testdata log and so many advanced features",
   "main": "lib/reporter.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ericksimonsklusner/wdio-html-reporter-advanced.git"
+    "url": "git+https://github.com/ericksimonsklusner/wdio-html-advance-reporter.git"
   },
   "keywords": [
     "html",
@@ -22,9 +22,9 @@
   "author": "Eric",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ericksimonsklusner/wdio-html-reporter-advanced/issues"
+    "url": "https://github.com/ericksimonsklusner/wdio-html-advance-reporter/issues"
   },
-  "homepage": "https://github.com/ericksimonsklusner/wdio-html-reporter-advanced#readme",
+  "homepage": "https://github.com/ericksimonsklusner/wdio-html-advance-reporter#readme",
 
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
